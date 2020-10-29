@@ -1,0 +1,261 @@
+﻿body {
+    /*padding-top: 50px;*/
+    padding-bottom: 20px;
+    background: black;
+    color: #75FB4E;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    background-color:black;
+    max-width: 280px;
+}
+
+.navbar-default {
+
+    color: #75FB4E;
+    border-color: black;
+    background-color: black;
+}
+
+.navbar-inverse .navbar-brand{
+    color:#75FB4E
+}
+
+.navbar-inverse .navbar-nav > li > a{
+    color: #75FB4E
+}
+.form-control {
+    background-color: black;
+    border: 1px solid #75FB4E;
+    color: #75FB4E;
+    box-shadow: #75FB4E;
+}
+
+.form-control::placeholder{
+    color: #75FB4E;
+}
+
+.btn-default {
+    background: black;
+    color: #75FB4E;
+    border: 1px solid #75FB4E;
+}
+
+.btn-default:hover {
+    background: black;
+    color: white;
+    border: 1px solid #75FB4E;
+}
+
+.HOME{
+    font-size: 0;
+    display: grid;
+}
+
+
+.Section{
+    height: 90vh;
+    font-size: 5vh;
+}
+
+#LandingPage {
+    background-image: url("StaticImages/Logo.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.centeredLandingPageContent {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.centeredLandingPageContent h1 {
+    font-size: 175px;
+    color: #FFFFFF;
+}
+
+.centeredLandingPageContent h2 {
+    font-size: 68px;
+    letter-spacing: .45em;
+    color: #FFFFFF;
+    white-space: nowrap;
+}
+
+#AboutUs {
+    background-image: url("StaticImages/AboutUs.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:contain;
+    background-color: #75FB4E;
+}
+
+.centeredAboutUsContent {
+    color: white;
+    background-color: #24584C;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-top: 10vh;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30vw; /* Need a specific value to work */
+    height: 70vh;
+    text-align: center;
+}
+
+.centeredAboutUsContent h1 {
+    font-size: 5vh;
+}
+
+.centeredAboutUsContent p {
+    padding: 50px   50px;
+    font-size: 1.25vw;
+    letter-spacing: .25em;
+}
+
+.tophalfpanel {
+    height: 50%;
+    color: white;
+    background-color: #75FB4E;
+    text-align: center;
+    color: #24584C;
+}
+
+.tophalfpanel h1 {
+    padding-top: 5%;
+        
+}
+
+.bottomhalfpanel {
+    height: 45vh;
+}
+
+#Software .tophalfpanel {
+    color: #24584C;
+    background-color: #75FB4E;
+}
+
+#Software .bottomhalfpanel {
+    background-color: #24584C;
+    
+}
+
+#Hardware .tophalfpanel {
+    background-color: #75FB4E;
+}
+
+#Hardware .bottomhalfpanel {
+    background-color: #24584C;
+}
+
+#Software .ImageHolder {
+    width: 32vw;
+    display: inline-block;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+#Software .ImageHolder h1{
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 40vh; 
+    width: 32vw;
+    height: 100%;
+    font-size: 0px;
+}
+
+
+#Software .ImageHolder h1:hover {
+    font-size: 48px;
+}
+
+#ColdCount {
+    background-image: url("/Content/StaticImages/ColdCount.png");
+}
+
+#ReceiptStacker {
+    background-image: url("/Content/StaticImages/ReceiptStacker.png");
+}
+
+#BoltXWeb {
+    background-image: url("/Content/StaticImages/Website.png");
+}
+
+
+#Hardware .ImageHolder {
+    width: 49vw;
+    display: inline-block;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#Hardware .ImageHolder h1 {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 40vh;
+    width: 100%;
+    height: 100%;
+    font-size: 0px;
+}
+
+#Hardware .ImageHolder h1:hover {
+    font-size: 48px;
+}
+
+#Braided {
+    background-image: url("/Content/StaticImages/Cable Braided.svg");
+}
+
+#Elbow {
+    background-image: url("/Content/StaticImages/Cable Elbow.svg");
+}
+
+.btn-primary {
+    background-color: #24584C;
+    color: #75FB4E;
+    border-color: #75FB4E;
+}
+
+.btn-primary:hover {
+    background-color: #75FB4E;
+    color: #24584C;
+    border-color: #24584C;
+}
+
+#CategoriesTitle {
+    text-align: left;
+}
+
+.col-centered {
+    margin: 0 auto;
+    float: none;
+}

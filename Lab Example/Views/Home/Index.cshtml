@@ -1,0 +1,64 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="HOME">
+    <div class="Section" id="LandingPage">
+        <div class="centeredLandingPageContent">
+            <h1>BoltX</h1>
+            <h2>The Next Step</h2>
+        </div>
+    </div>
+    <div class="Section" id="AboutUs">
+        <div class="centeredAboutUsContent">
+            <h1>About Us</h1>
+            <p>
+                Making your life easier doesn’t always involve massive change, sometimes it takes doing the basics right.
+
+                BoltX aims to change your day-to-day for the better without changing you.
+
+                Simple, adaptable and innovative solutions that change how technology interacts with you.
+
+
+
+                Check out our products below!
+            </p>
+        </div>
+    </div>
+    <div class="Section" id="Software">
+        <div class="tophalfpanel">
+            <h1>Software</h1>
+            <p>The digital help that makes your lives easier. Simple, intuitive apps that make the difference.</p>
+            <button class="btn btn-primary btn-sm" id="HardwareBtn" name="category" value="PC Parts" onclick="@("window.location.href='" + @Url.Action("Index", "Products") + "'");">Software</button>
+        </div>
+        <div class="bottomhalfpanel">
+            <div class="ImageHolder" id="ColdCount">
+                <h1>ColdCount</h1>
+            </div>
+            <div class="ImageHolder" id="ReceiptStacker">
+                <h1>RecieptStacker</h1>
+            </div>
+            <div class="ImageHolder" id="BoltXWeb">
+                <h1>BoltX Web</h1>
+            </div>
+        </div>
+    </div>
+        <div class="Section" id="Hardware">
+            <div class="tophalfpanel">
+                <h1>Hardware</h1>
+                <p>The cable to rule them all, universal, magnetic, elbow shaped and braided.</p>
+                <button class="btn btn-primary btn-sm" id="HardwareBtn" name="category" value="PC Parts" onclick="@("window.location.href='" + @Url.Action("Index", "Products") + "'");" >Hardware</button>
+            </div>
+            <div class="bottomhalfpanel">
+                <div class="ImageHolder" id="Braided">
+                    <h1>Braided</h1>
+                </div>
+                <div class="ImageHolder" id="Elbow">
+                    <h1>Elbow</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
