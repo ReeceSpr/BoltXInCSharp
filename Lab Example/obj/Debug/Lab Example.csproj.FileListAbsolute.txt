@@ -346,3 +346,142 @@ C:\Users\Reece\Documents\Lab Example - Copy\Lab Example\obj\Debug\Lab Example.cs
 C:\Users\Reece\Documents\Lab Example - Copy\Lab Example\obj\Debug\Lab Example.dll
 C:\Users\Reece\Documents\Lab Example - Copy\Lab Example\obj\Debug\Lab Example.pdb
 C:\Users\Reece\Documents\Lab Example - Copy\Lab Example\obj\Debug\Lab Example.csprojAssemblyReference.cache
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Lab Example.dll.config
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Lab Example.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Lab Example.pdb
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\csc.exe
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\csc.exe.config
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\csc.rsp
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\csi.exe
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\csi.exe.config
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\csi.rsp
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\System.AppContext.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\System.Console.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\System.IO.Compression.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\System.Security.Claims.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\System.ValueTuple.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\vbc.exe
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\vbc.exe.config
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\vbc.rsp
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\VBCSCompiler.exe
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Antlr3.Runtime.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\EntityFramework.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\EntityFramework.SqlServer.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Microsoft.Owin.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Microsoft.Owin.Security.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Newtonsoft.Json.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Owin.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\PagedList.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\PagedList.Mvc.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Web.Helpers.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Web.Mvc.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Web.Optimization.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Web.Razor.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Web.WebPages.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Web.WebPages.Razor.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\WebGrease.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\PagedList.xml
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\PagedList.Mvc.xml
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Web.Helpers.xml
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Web.Mvc.xml
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Web.Optimization.xml
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Web.Razor.xml
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Web.WebPages.xml
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Web.WebPages.Razor.xml
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Newtonsoft.Json.xml
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Antlr3.Runtime.pdb
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\EntityFramework.xml
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\EntityFramework.SqlServer.xml
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Microsoft.Owin.xml
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Microsoft.Owin.Security.xml
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\obj\Debug\Lab_Example.Migrations.InitialCreate.resources
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\obj\Debug\Lab_Example.Migrations.StoreConfiguration.twocontextreset.resources
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\obj\Debug\Lab_Example.Migrations.update_user_fields.resources
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\obj\Debug\Lab_Example.Migrations.StoreConfiguration.AddBasketLine.resources
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\obj\Debug\Lab_Example.Migrations.StoreConfiguration.addorders.resources
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\obj\Debug\Lab_Example.Migrations.StoreConfiguration.ChangingProducts.resources
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\obj\Debug\Lab_Example.Migrations.StoreConfiguration.ChangingProducts1.resources
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\obj\Debug\Lab_Example.Migrations.StoreConfiguration.ChangingProducts2.resources
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\obj\Debug\Lab Example.csproj.GenerateResource.cache
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\obj\Debug\Lab Example.csproj.CoreCompileInputs.cache
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\obj\Debug\Lab Example.csproj.CopyComplete
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\obj\Debug\Lab Example.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\obj\Debug\Lab Example.pdb
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Microsoft.CSharp.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.ComponentModel.DataAnnotations.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Configuration.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Data.DataSetExtensions.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Data.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Drawing.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.EnterpriseServices.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Net.Http.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Net.Http.WebRequest.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Web.Abstractions.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Web.ApplicationServices.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Web.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Web.DynamicData.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Web.Entity.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Web.Extensions.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Web.Routing.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Web.Services.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Xml.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\System.Xml.Linq.dll
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Lab Example.dll.CodeAnalysisLog.xml
+C:\Users\Reece\Documents\BoltXInCSharp\Lab Example\bin\Lab Example.dll.lastcodeanalysissucceeded
